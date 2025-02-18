@@ -1,0 +1,9 @@
+GitHub URLs for the created HTML files:
+https://github.com/fstimson/html-file-for-report/blob/master/Appeal.html
+https://github.com/fstimson/html-file-for-report/blob/master/Appeal Rejected.html
+https://github.com/fstimson/html-file-for-report/blob/master/Approved.html
+https://github.com/fstimson/html-file-for-report/blob/master/Paid.html
+https://github.com/fstimson/html-file-for-report/blob/master/Rejected.html
+https://github.com/fstimson/html-file-for-report/blob/master/Removed.html
+https://github.com/fstimson/html-file-for-report/blob/master/Review.html
+https://github.com/fstimson/html-file-for-report/blob/master/Submitted.html
